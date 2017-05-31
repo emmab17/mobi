@@ -24,7 +24,9 @@
       }
     },
     "path": "@PROJECT_PATH@",
-    "uniqCompNum": 7
+    "uniqCompNum": 7,
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -202,18 +204,18 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "content1-6",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "1",
             "bgColor": "#a63b00"
           },
-          "text": "<p>Emma Boeyaert studeert aan Luca School of Arts in Gent sinds 2015. In het eerste jaar van haar hogere studies volgde ze een vormende opleiding die tussen Tekenkunst en Grafiek en Illustratie schommelde. In het tweede jaar diende een keuze gemaakt te worden tussen beide. Emma besloot om Illustratie te volgen waar ze begeleid werd door Isabelle Vanden Abeele en Gerda Dendooven. Ze ontwikkelde zich verder in dit academiejaar. Echter nu heeft Emma Boeyaert ingezien dat ze zich beter thuis zou voelen in de richting Tekenkunst en Grafiek. Het overschakelen naar een ander atelier kost haar een studiejaar. Dat vindt ze niet erg, al moet ze het nog aan haar ouders vertellen.&nbsp;</p><p><br></p><p>Zoals u ziet leunt het werk van Emma Boeyaert dichter aan tegen de tekenkunst dan tegen illustratie. Dat omwille van de raadselachtigheid en de onrechtstreekse tot onbestaande communicatie tussen het werk en de toeschouwer. Emma laat zich momenteel volledig gaan in het maken van werk dat los hangt van wat in haar atelier van haar verwacht wordt, want iets in de studente remt haar af in haar illustratiewerk.&nbsp;</p>",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "text": "<p>Emma Boeyaert studeert aan Luca School of Arts in Gent sinds 2015. In het eerste jaar van haar hogere studies volgde ze een vormende opleiding die tussen Tekenkunst en Grafiek en Illustratie schommelde. In het tweede jaar diende een keuze gemaakt te worden tussen beide. Emma besloot om Illustratie te volgen waar ze begeleid werd door Isabelle Vanden Abeele en Gerda Dendooven. Ze ontwikkelde zich verder in dit academiejaar. Echter nu heeft Emma Boeyaert ingezien dat ze zich beter thuis zou voelen in de richting Tekenkunst en Grafiek. Het overschakelen naar een ander atelier kost haar een studiejaar. Dat vindt ze niet erg, al moet ze het nog aan haar ouders vertellen.&nbsp;</p><p><br></p><p>Zoals u ziet leunt het werk van Emma Boeyaert dichter aan tegen de tekenkunst dan tegen illustratie. Dat omwille van de raadselachtigheid en de onrechtstreekse tot onbestaande communicatie tussen het werk en de toeschouwer. Emma laat zich momenteel volledig gaan in het maken van werk dat los hangt van wat in haar atelier van haar verwacht wordt, want iets in de studente remt haar af in haar illustratiewerk.&nbsp;</p>"
         },
         {
           "_name": "slider3",
