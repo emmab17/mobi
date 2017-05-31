@@ -24,7 +24,7 @@
       }
     },
     "path": "@PROJECT_PATH@",
-    "uniqCompNum": 0
+    "uniqCompNum": 7
   },
   "pages": {
     "index.html": {
@@ -52,14 +52,14 @@
             "parallax": false,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/raam2.gif",
+            "bgImage": "@PROJECT_PATH@/assets/images/-dsc2723-2000x1328.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": "0.4",
             "overlayColor": "#000",
             "contentAlign": "right",
@@ -198,6 +198,24 @@
           "articleLayout": false
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-6",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "1",
+            "bgColor": "#a63b00"
+          },
+          "text": "<p>Emma Boeyaert studeert aan Luca School of Arts in Gent sinds 2015. In het eerste jaar van haar hogere studies volgde ze een vormende opleiding die tussen Tekenkunst en Grafiek en Illustratie schommelde. In het tweede jaar diende een keuze gemaakt te worden tussen beide. Emma besloot om Illustratie te volgen waar ze begeleid werd door Isabelle Vanden Abeele en Gerda Dendooven. Ze ontwikkelde zich verder in dit academiejaar. Echter nu heeft Emma Boeyaert ingezien dat ze zich beter thuis zou voelen in de richting Tekenkunst en Grafiek. Het overschakelen naar een ander atelier kost haar een studiejaar. Dat vindt ze niet erg, al moet ze het nog aan haar ouders vertellen.&nbsp;</p><p><br></p><p>Zoals u ziet leunt het werk van Emma Boeyaert dichter aan tegen de tekenkunst dan tegen illustratie. Dat omwille van de raadselachtigheid en de onrechtstreekse tot onbestaande communicatie tussen het werk en de toeschouwer. Emma laat zich momenteel volledig gaan in het maken van werk dat los hangt van wat in haar atelier van haar verwacht wordt, want iets in de studente remt haar af in haar illustratiewerk.&nbsp;</p>",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
           "_name": "slider3",
           "_params": {
             "autoplay": true,
@@ -248,26 +266,265 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/mar-enzo.gif",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/-dsc2680-2000x1328.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
-                "contentAlign": "center",
+                "contentAlign": "right",
                 "showTitle": false,
-                "title": "",
+                "title": "BOOTSTRAP SLIDER",
                 "showText": false,
-                "text": "",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": false,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/dsc-2000x1332.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/dsc-2000x1328.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/dsc-2000x1334.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/dsc-2000x1331.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
             "fullScreen": false,
             "bgColor": "#fff",
-            "showBullets": true
+            "showBullets": false
           },
           "_anchor": "index-slider3-0",
           "articleLayout": false
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc2739-2000x1328-800x531.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc2739-2000x1328.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc2744-2000x1328-800x531.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc2744-2000x1328.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc2737-2000x1328-800x531.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc2737-2000x1328.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc2727-2000x1328-800x531.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc2727-2000x1328.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc2726-2000x1328-800x531.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc2726-2000x1328.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc2723-2000x1328-800x531.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc2723-2000x1328.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc2734-2000x1328-800x531.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc2734-2000x1328.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc2735-2000x1328-800x531.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc2735-2000x1328.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc2724-2000x1328-800x531.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc2724-2000x1328.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc2736-2000x1328-800x531.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc2736-2000x1328.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc2728-2000x1328-800x531.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc2728-2000x1328.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc2741-2000x1328-800x531.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc2741-2000x1328.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc2742-2000x1328-800x531.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc2742-2000x1328.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc2725-2000x1328-800x531.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc2725-2000x1328.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc2732-2000x1328-800x531.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc2732-2000x1328.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc2680-2000x1328-800x531.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc2680-2000x1328.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-0",
+          "articleLayout": false,
+          "allItem": "All"
         }
       ]
     }
