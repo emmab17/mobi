@@ -1,5 +1,7 @@
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
+
 
 
 
@@ -410,11 +412,10 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #b8312f;
 }
-#header1-1 .mbr-section-title {
-  color: #ffffff;
-  font-size: 36px;
-  text-align: right;
+#header5-7 .mbr-section-title {
+  color: #000;
+  font-family: 'Oxygen', sans-serif;
 }
-#content1-6 P {
-  color: #ffffff;
+#header5-7 .mbr-section-lead {
+  color: #9c9a9a;
 }
